@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Dominique Zeise and I am currently studying bioinformatics in the master's program.
+You can find me on [<img src="linkedin_logo.png" alt="drawing" width="16"/>][1]
+
+
+
+
+<!-- Links -->
+[1]: https://www.linkedin.com/in/dominique-zeise/
