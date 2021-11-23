@@ -9,8 +9,7 @@ You can find me on [<img src="linkedin_logo.png" alt="drawing" width="16"/>][1]
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=CharliesCodes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)][2]
 
-
-[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=CharliesCodes&repo=personal-blog&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)][2]
+[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=CharliesCodes&repo=bioinformatics&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)][2]
 
 
 <!-- Links -->
