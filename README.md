@@ -2,6 +2,7 @@
 
 My name is Dominique Zeise and I am currently studying bioinformatics in the master's program.
 You can find me on [<img src="linkedin_logo.png" alt="drawing" width="16"/>][1]
+Follow my work: [Zeise Coding](https://www.zeise-coding.de/)
 
 
 ## GitHub Stats
