@@ -10,7 +10,9 @@
     <a href="https://www.linkedin.com/in/dominique-zeise/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <img src="https://img.shields.io/badge/Blog-Zeise%20Coding-45A29E?style=for-the-badge?link=hhttps://www.zeise-coding.de/blog/&link=https://www.zeise-coding.de/blog/" alt="Zeise Coding Blog"/>
+    <a href="https://www.zeise-coding.de/">
+      <img src="https://img.shields.io/badge/Home-Zeise%20Coding-45A29E?style=for-the-badge" alt="Zeise Coding Blog"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=CharliesCodes&style=flat-square&color=blue" alt=""/>
 </div>
