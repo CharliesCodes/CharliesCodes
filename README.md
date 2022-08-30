@@ -10,6 +10,7 @@
     <a href="https://www.linkedin.com/in/dominique-zeise/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <img src="https://img.shields.io/badge/Blog-Zeise%20Coding-45A29E?style=for-the-badge?link=hhttps://www.zeise-coding.de/blog/&link=https://www.zeise-coding.de/blog/" alt="Zeise Coding Blog"/>
   </div>
   <img src="https://komarev.com/ghpvc/?username=CharliesCodes&style=flat-square&color=blue" alt=""/>
 </div>
@@ -33,36 +34,37 @@ I also offer online courses for these disciplines. You can get a discount if you
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-#### Languages:
+#### Languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTM5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 </div>
-#### Frameworks:
+
+#### Frameworks
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
 </div>
 
-#### Tools:
+#### Tools
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-#### Editors:
+#### Editors
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
 </div>
 
-#### OS / Platforms:
+#### OS / Platforms
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
@@ -71,17 +73,23 @@ I also offer online courses for these disciplines. You can get a discount if you
  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
-## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharliesCodes&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)][2]
+## :fire: My GitHub Stats :
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=CharliesCodes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)][2]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CharliesCodes&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharliesCodes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=CharliesCodes&repo=bioinformatics&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)][2]
+
 
 
 <!-- Links -->
 [1]: https://www.linkedin.com/in/dominique-zeise/
 [2]: https://github.com/CharliesCodes
 
-<!--- THx to https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+<!--- THx to https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 
+and 
+https://www.sitepoint.com/github-profile-readme/-->
