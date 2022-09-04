@@ -13,7 +13,8 @@
     <a href="https://www.zeise-coding.de/">
       <img src="https://img.shields.io/badge/-Zeise%20Coding-45A29E?style=for-the-badge" alt="Zeise Coding Blog"/>
     </a>
-  </div>
+  </div>  
+  <a href="https://www.buymeacoffee.com/CharliesCodes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a><br>
   <img src="https://komarev.com/ghpvc/?username=CharliesCodes&style=flat-square&color=blue" alt=""/>
 </div>
 
