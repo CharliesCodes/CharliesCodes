@@ -87,9 +87,9 @@ I also offer online courses for these disciplines. You can get a discount if you
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharliesCodes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=CharliesCodes&repo=bioinformatics&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)][2]
-
+<a href="https://github.com/CharliesCodes/bioinformatics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharliesCodes&repo=bioinformatics&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"></img>
+</a>
 
 
 <!-- Links -->
