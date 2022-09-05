@@ -28,6 +28,9 @@ Hi there 👋
 </div>
 
 ---
+<a href="https://www.zeise-coding.de/" target="_blank">
+  <img align="right" src="https://github.com/CharliesCodes/CharliesCodes/blob/main/png/Logo_ZC_final_hellblau.png" alt="drawing" width="200"/>
+</a>
 
 ### About Me :
 Hi! I'm Dominique Zeise, I studied Bioinformatics and I work as a Data Scientist.<br>
