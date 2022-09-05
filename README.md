@@ -83,12 +83,22 @@ I also offer online courses for these disciplines. You can get a discount if you
 
 ## :fire: My GitHub Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CharliesCodes&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharliesCodes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/CharliesCodes?tab=repositories">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=CharliesCodes&theme=dark"></img>
+</a>
+<br>
+<br>
+
+<a href="https://github.com/CharliesCodes?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharliesCodes&layout=compact&theme=dark"></img>
+</a>
+<br>
+<br>
+
 
 <a href="https://github.com/CharliesCodes/bioinformatics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharliesCodes&repo=bioinformatics&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"></img>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharliesCodes&repo=bioinformatics&layout=compact&theme=dark"></img>
 </a>
 
 
