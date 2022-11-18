@@ -4,13 +4,10 @@
     <a href="https://www.udemy.com/user/dominique-zeise-2/">
       <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy Badge"/>
     </a>
-    <a href="https://www.linkedin.com/company/zeise-coding/">
-      <img src="https://img.shields.io/badge/LinkedIn-45A29E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
     <a href="https://www.linkedin.com/in/dominique-zeise/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.zeise-coding.de/">
+    <a href="https://zeise-coding.de/">
       <img src="https://img.shields.io/badge/-Zeise%20Coding-45A29E?style=for-the-badge" alt="Zeise Coding Blog"/>
     </a>
   </div>  
@@ -27,7 +24,7 @@ Hi there 👋
 </div>
 
 ---
-<a href="https://www.zeise-coding.de/" target="_blank">
+<a href="https://zeise-coding.de/" target="_blank">
   <img align="right" src="https://github.com/CharliesCodes/CharliesCodes/blob/main/png/Logo_ZC_final_hellblau.png" alt="drawing" width="200"/>
 </a>
 
