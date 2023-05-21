@@ -29,7 +29,7 @@ Hi there 👋
 </a>
 
 ### About Me :
-Hi! I'm Dominique Zeise, I studied Bioinformatics and I work as a Data Scientist.<br>
+Hi! I'm Dominique Zeise, I studied Bioinformatics and I work as a Data Engineer.<br>
 I love working with Python and R. That's why I founded my company Zeise Coding. On my [homepage](https://www.zeise-coding.de/) I write blog articles about Data Science, Bioinformatics, Artificial Intelligence and much more.<br>
 I also offer online courses for these disciplines. You can get a discount if you buy them through my website under [courses](https://www.zeise-coding.de/kurse/).
 
