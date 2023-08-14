@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/dominique-zeise/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://zeise-coding.de/">
+    <a href="https://dominiquezeise.de/">
       <img src="https://img.shields.io/badge/-Zeise%20Coding-45A29E?style=for-the-badge" alt="Zeise Coding Homepage"/>
     </a>
   </div>  
@@ -24,14 +24,14 @@ Hi there 👋
 </div>
 
 ---
-<a href="https://zeise-coding.de/" target="_blank">
+<a href="https://dominiquezeise.de/" target="_blank">
   <img align="right" src="https://github.com/CharliesCodes/CharliesCodes/blob/main/png/Logo_ZC_final_hellblau.png" alt="drawing" width="200"/>
 </a>
 
 ### About Me :
 Hi! I'm Dominique Zeise, I studied Bioinformatics and I work as a Data Engineer.<br>
-I love working with Python and R. That's why I founded my company Zeise Coding. On my [homepage](https://zeise-coding.de/) I write blog articles about Data Science, Bioinformatics, Artificial Intelligence and much more.<br>
-I also offer online courses for these disciplines. You can get a discount if you buy them through my website under [courses](https://zeise-coding.de/kurse/).
+I love working with Python and R. That's why I founded my company Zeise Coding. On my [homepage](https://dominiquezeise.de/) I write blog articles about Data Science, Bioinformatics, Artificial Intelligence and much more.<br>
+I also offer online courses for these disciplines. You can get a discount if you buy them through my website under [courses](https://dominiquezeise.de/kurse/).
 
 ---
 
