@@ -7,8 +7,8 @@
     <a href="https://www.linkedin.com/in/dominique-zeise/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://dominiquezeise.de/">
-      <img src="https://img.shields.io/badge/-Zeise%20Coding-45A29E?style=for-the-badge" alt="Zeise Coding Homepage"/>
+    <a href="https://dzeise.de/">
+      <img src="https://img.shields.io/badge/-Zeise%20Coding-45A29E?style=for-the-badge" alt="Homepage"/>
     </a>
   </div>  
   <img src="https://komarev.com/ghpvc/?username=CharliesCodes&style=flat-square&color=blue" alt=""/>
